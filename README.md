@@ -1,3 +1,3 @@
-Simple vannila Javascript SPA example, with Go backend, described here: https://petrjahoda.medium.com/d3-v6-calendar-heat-map-c709fe20e737
+Simple vannila Javascript SPA example, with Go backend, described here: https://petrjahoda.medium.com/how-to-create-spa-with-less-than-20-lines-of-javascript-code-814d1556dd9a
 
 ![actual screenshot](result.gif)
